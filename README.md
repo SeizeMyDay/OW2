@@ -13,7 +13,8 @@ environment: python3.13(pyenv), poetry 기반 pandas, plotly 사용
 
 ## 원본 데이터
 직접 생성.  
-'오버워치 승패 기록표.xlsx' image 이런 식으로 작성하였다.  
+<img width="927" height="330" alt="image" src="https://github.com/user-attachments/assets/62642b35-50e1-40ec-acae-4b5c43bc66d4" />
+이런 식으로 작성하였다.  
 2025년 9월 12일 현재 577개의 데이터가 있다.
 
 ## 분석 실행코드
@@ -42,6 +43,7 @@ generate_report.py를 실행한다.
 
 70판째부터 약 130판 가량 승률은 50퍼센트 미만이었다.  
 150판을 전후로 승률은 상승추세를 그리며 결국 201판째에 50퍼센트 승률을 회복하였다.
+
 
 
 
