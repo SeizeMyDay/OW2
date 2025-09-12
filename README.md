@@ -5,7 +5,9 @@
 environment: python3.13(pyenv), poetry 기반 pandas, plotly 사용
 
 ## 원본 데이터
-직접 생성. '오버워치 승패 기록표.xlsx' image 이런 식으로 작성하였다. 2025년 9월 12일 현재 577개의 데이터가 있다.
+직접 생성.  
+'오버워치 승패 기록표.xlsx' image 이런 식으로 작성하였다.  
+2025년 9월 12일 현재 577개의 데이터가 있다.
 
 ## 분석 실행코드
 generate_report.py를 실행한다.
@@ -20,4 +22,5 @@ generate_report.py를 실행한다.
 
 ## 소스코드 실행 결과
 <img width="2561" height="3924" alt="image" src="https://github.com/user-attachments/assets/2e8db3ad-fb5c-40cb-80ba-89e3fe4b46c0" />
+
 
