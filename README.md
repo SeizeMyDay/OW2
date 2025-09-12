@@ -9,7 +9,7 @@
 
 그렇게 2개월 정도 데이터를 모으다가 25년 3월경 분석을 시작했고, 소스코드를 지속적으로 개량해 오고 있다.  
 
-environment: python3.13(pyenv), poetry 기반
+environment: python3.13(pyenv), poetry 기반  
              pandas, plotly 사용
 
 ## 원본 데이터
@@ -44,6 +44,7 @@ generate_report.py를 실행한다.
 
 70판째부터 약 130판 가량 승률은 50퍼센트 미만이었다.  
 150판을 전후로 승률은 상승추세를 그리며 결국 201판째에 50퍼센트 승률을 회복하였다.
+
 
 
 
